@@ -1,0 +1,1480 @@
+﻿Log file open, 05/09/22 00:04:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Brillet_Killian_TD
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288980
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=qsrChoca -epicuserid=0124e202f8d64106a84b9d12ebe74b93 -epiclocale=fr -epicsandboxid=ue
+LogInit: Base Directory: D:/Epic/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.08-22.04.59:759][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.08-22.04.59:760][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:760][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:778][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-22.04.59:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-22.04.59:779][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-22.04.59:779][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.08-22.04.59:779][  0]LogHAL: Display: Platform has ~ 16 GB [17138163712 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.08-22.04.59:779][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-22.04.59:779][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-22.04.59:780][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.08-22.04.59:781][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.08-22.04.59:781][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.08-22.04.59:781][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.08-22.04.59:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Engine.ini]
+[2022.05.08-22.04.59:781][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Config/Windows/Editor.ini]
+[2022.05.08-22.04.59:781][  0]LogInit: Computer: CHOCA-PC
+[2022.05.08-22.04.59:781][  0]LogInit: User: brill
+[2022.05.08-22.04.59:781][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.08-22.04.59:781][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.08-22.04.59:781][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.08-22.04.59:781][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.08-22.04.59:781][  0]LogMemory: Process Physical Memory: 148.69 MB used, 148.70 MB peak
+[2022.05.08-22.04.59:781][  0]LogMemory: Process Virtual Memory: 117.41 MB used, 117.41 MB peak
+[2022.05.08-22.04.59:781][  0]LogMemory: Physical Memory: 9662.61 MB used,  6681.61 MB free, 16344.23 MB total
+[2022.05.08-22.04.59:781][  0]LogMemory: Virtual Memory: 134210480.00 MB used,  7246.74 MB free, 134217728.00 MB total
+[2022.05.08-22.04.59:786][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.08-22.04.59:828][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.08-22.04.59:828][  0]LogInit: Using OS detected language (fr-FR).
+[2022.05.08-22.04.59:828][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.05.08-22.04.59:831][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.05.08-22.04.59:832][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.05.08-22.04.59:832][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.05.08-22.04.59:832][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.08-22.04.59:846][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.08-22.04.59:871][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.08-22.04.59:871][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.08-22.05.00:062][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.05.08-22.05.00:064][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-22.05.00:064][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.08-22.05.00:064][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.08-22.05.00:064][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.08-22.05.00:152][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2022.05.08-22.05.00:152][  0]LogD3D11RHI:       6052/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     SubSysId    : 32811462
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.08-22.05.00:154][  0]LogD3D11RHI:     SharedSystemMemory : 8569081856 bytes
+[2022.05.08-22.05.00:155][  0]LogD3D11RHI:     AdapterLuid : 0 55855
+[2022.05.08-22.05.00:160][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.08-22.05.00:160][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.08-22.05.00:160][  0]LogWindows: EnumDisplayDevices:
+[2022.05.08-22.05.00:160][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2022.05.08-22.05.00:160][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2022.05.08-22.05.00:160][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.08-22.05.00:161][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2022.05.08-22.05.00:161][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:   Driver Version: 496.76 (internal:30.0.14.9676, unified:496.76)
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:      Driver Date: 11-9-2021
+[2022.05.08-22.05.00:161][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060 6GB
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     DeviceId    : 1c03
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     SubSysId    : 32811462
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     SharedSystemMemory : 8569081856 bytes
+[2022.05.08-22.05.00:161][  0]LogD3D11RHI:     AdapterLuid : 0 55855
+[2022.05.08-22.05.00:213][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.08-22.05.00:214][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.08-22.05.00:214][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.08-22.05.00:237][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.08-22.05.00:275][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.08-22.05.00:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.08-22.05.00:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.08-22.05.00:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.08-22.05.00:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.08-22.05.00:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.08-22.05.00:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.08-22.05.00:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.08-22.05.00:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.08-22.05.00:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.08-22.05.00:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.08-22.05.00:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.08-22.05.00:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.08-22.05.00:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.08-22.05.00:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.08-22.05.00:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.08-22.05.00:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.08-22.05.00:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.08-22.05.00:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.08-22.05.00:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.08-22.05.00:812][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.08-22.05.00:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.08-22.05.00:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.08-22.05.00:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.08-22.05.00:826][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.08-22.05.00:834][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.08-22.05.00:864][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.05.08-22.05.00:898][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.08-22.05.00:898][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Intermediate/Shaders/WorkingDirectory/6812/).
+[2022.05.08-22.05.00:898][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/brill/AppData/Local/Temp/UnrealShaderWorkingDir/B0BC5C254AC9C331375DF28C278857F0/'.
+[2022.05.08-22.05.00:898][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.05.08-22.05.00:898][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.08-22.05.00:898][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.08-22.05.01:660][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/brill/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/brill/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-22.05.01:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.08-22.05.01:732][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.08-22.05.01:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-22.05.01:732][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.08-22.05.01:739][  0]LogDerivedDataCache: Speed tests for C:/Users/brill/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.08-22.05.01:740][  0]LogDerivedDataCache: Display: Performance to C:/Users/brill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1447.89MBs, RandomWriteSpeed=143.88MBs. Assigned SpeedClass 'Local'
+[2022.05.08-22.05.01:740][  0]LogDerivedDataCache: Using Local data cache path C:/Users/brill/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.08-22.05.01:740][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.08-22.05.01:740][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.08-22.05.01:786][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.08-22.05.01:786][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.08-22.05.01:811][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.05.08-22.05.02:042][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-22.05.02:042][  0]LogInit: Active device profile: [0000028C7DD5CD00][0000028C7CBF9080 49] Windows
+[2022.05.08-22.05.02:042][  0]LogInit: Profiles: [0000028C7DD5CD00][0000028C7CBF9080 49] Windows, [0000028C7DD06300][0000028C71A53200 49] WindowsNoEditor, [0000028C7DD5DC00][0000028C719A3380 49] WindowsServer, [0000028C7DD07100][0000028C71ABF500 49] WindowsClient, [0000028C7DD5E900][0000028C71AC3680 49] IOS, [0000028C7DD05A00][0000028C71AC7800 49] iPadAir, [0000028C7DD5FE00][0000028C71B4F980 49] iPadAir2, [0000028C7EB65000][0000028C71B560C0 49] IPadPro, [0000028C7EB65100][0000028C71B52100 49] iPadAir3, [0000028C7DD04C00][0000028C71B5A280 49] iPadAir4, [0000028C7EB65D00][0000028C71B5E400 49] iPadMini2, [0000028C7DD07300][0000028C71B6A580 49] iPadMini3, [0000028C7EB67800][0000028C71B76700 49] iPadMini4, [0000028C7DD05000][0000028C7CBFC840 49] iPadMini5, [0000028C7EB8CA00][0000028C71B8AA80 49] iPhone6, [0000028C7EB8CB00][0000028C71B86AC0 49] iPodTouch6, [0000028C7DD5ED00][0000028C74628D80 49] iPhone7, [0000028C7DD5EE00][0000028C71B92DC0 49] iPodTouch7, [0000028C7EB66300][0000028C74630F40 49] iPhone5S, [0000028C7DD5D000][0000028C71B9B0C0 49] iPhone6Plus, [0000028C7EB8C100][0000028C71BAB240 49] iPhone6S, [0000028C7EB64300][0000028C71BAF3C0 49] iPhone6SPlus, [0000028C7EB8E900][0000028C71BD9540 49] iPhone7Plus, [0000028C7EB66100][0000028C71BE16C0 49] iPhoneSE, [0000028C7EB8E700][0000028C71BE9840 49] iPhone8, [0000028C7EB64700][0000028C7D4899C0 49] iPhone8Plus, [0000028C7EB8F200][0000028C7D499B40 49] iPhoneX, [0000028C7DD5D500][0000028C7D5DC140 49] iPhoneXS, [0000028C7EB8EC00][0000028C7D5E02C0 49] iPhoneXSMax, [0000028C7DD5DA00][0000028C7D800440 49] iPhoneXR, [0000028C7EB8C600][0000028C7D8045C0 49] iPhone11, [0000028C7DD5EA00][0000028C7197E740 49] iPhone11Pro, [0000028C7EB8DB00][0000028C719828C0 49] iPhone11ProMax, [0000028C7DD5CF00][0000028C71B8EA00 49] iPhoneSE2, [0000028C7EB8FB00][0000028C71986B40 49] iPhone12Mini, [0000028C7DD5E300][0000028C7198AC80 49] iPhone12, [0000028C7EB8CC00][0000028C7198EDC0 49] iPhone12Pro, [0000028C7DD5FF00][0000028C7D0EAF40 49] iPhone12ProMax, [0000028C7EB8D600][0000028C719930C0 49] iPadPro105, [0000028C7DD5C900][0000028C71997240 49] iPadPro129, [0000028C7EB8FE00][0000028C7199B3C0 49] iPadPro97, [0000028C7DD5F700][0000028C7D809540 49] iPadPro2_129, [0000028C7EB8ED00][0000028C7D8216C0 49] iPad5, [0000028C7DD5E100][0000028C7D825840 49] iPad6, [0000028C7EB8D200][0000028C7D82D9C0 49] iPad7, [0000028C7DD5D100][0000028C746B1B40 49] iPad8, [0000028C7EB8C400][0000028C746C0140 49] iPadPro11, [0000028C7DD5C700][0000028C746D02C0 49] iPadPro2_11, [0000028C7EB8D700][0000028C746D4440 49] iPadPro3_129, [0000028C7DD5F800][0000028C7D7385C0 49] iPadPro4_129, [0000028C7EB8F300][0000028C7D744740 49] AppleTV, [0000028C7DD5E600][0000028C7D7508C0 49] AppleTV4K, [0000028C7EB8EB00][0000028C7D754A40 49] TVOS, [0000028C7DD5CA00][0000028C7D0E6B80 49] Mac, [0000028C7EB8D400][0000028C7D758CC0 49] MacClient, [0000028C7DD5DD00][0000028C7D75CE00 49] MacNoEditor, [0000028C7EB8F600][0000028C71910F40 49] MacServer, [0000028C7DD5D200][0000028C719190C0 49] Linux, [0000028C7EB8DD00][0000028C7191D240 49] LinuxAArch64, [0000028C7DD5EB00][0000028C719213C0 49] LinuxNoEditor, [0000028C7EB8E400][0000028C71925540 49] LinuxAArch64NoEditor, [0000028C7DD5C600][0000028C7193D6C0 49] LinuxClient, [0000028C7EB8F800][0000028C7D791840 49] LinuxAArch64Client, [0000028C7DD5E700][0000028C7D7D79C0 49] LinuxServer, [0000028C7EB8EA00][0000028C7D7DBB40 49] LinuxAArch64Server, [0000028C7DD5F400][0000028C7CEFC140 49] Android, [0000028C7EB8F400][0000028C7CF462C0 49] Android_Low, [0000028C7DD5D600][0000028C7CF4A440 49] Android_Mid, [0000028C7EB8F900][0000028C7CF825C0 49] Android_High, [0000028C7DD5FD00][0000028C7D7DE740 49] Android_Default, [0000028C7EB8E600][0000028C7D7E28C0 49] Android_Adreno4xx, [0000028C7DD5CE00][0000028C7CF00A40 49] Android_Adreno5xx_Low, [0000028C7EB8D000][0000028C7D7E6BC0 49] Android_Adreno5xx, [0000028C7DD5D300][0000028C7CF7ED40 49] Android_Adreno6xx, [0000028C7DD04500][0000028C71914E80 49] Android_Adreno6xx_Vulkan, [0000028C7EB66000][0000028C7D7F6FC0 49] Android_Mali_T6xx, [0000028C7DD04600][0000028C7D7FB100 49] Android_Mali_T7xx, [0000028C7EB64100][0000028C7CFFD280 49] Android_Mali_T8xx, [0000028C7DD04100][0000028C7D001400 49] Android_Mali_G71, [0000028C7EB67300][0000028C7D81D580 49] Android_Mali_G72, [0000028C7DD05500][0000028C7D819700 49] Android_Mali_G72_Vulkan, [0000028C7EB65700][0000028C71BDD880 49] Android_Mali_G76, [0000028C7DD07800][0000028C71BE5A00 49] Android_Mali_G76_Vulkan, [0000028C7EB66900][0000028C7D005B80 49] Android_Mali_G77, [0000028C7DD07F00][0000028C7D008180 49] Android_Mali_G77_Vulkan, [0000028C7EB65500][0000028C7D00C300 49] Android_Mali_G78, [0000028C7DD06200][0000028C7CF86480 49] Android_Mali_G78_Vulkan, [0000028C7EB64400][0000028C7CF8A600 49] Android_Mali_G710, [0000028C7DD04300][0000028C7CF8E780 49] Android_Mali_G710_Vulkan, [0000028C7EB64200][0000028C7CF92900 49] Android_Vulkan_SM5, [0000028C7DD04700][0000028C7CF96A80 49] Android_PowerVR_G6xxx, [0000028C7EB66400][0000028C7CF9AC00 49] Android_PowerVR_GT7xxx, [0000028C7DD06800][0000028C7CF9ED80 49] Android_PowerVR_GE8xxx, [0000028C7EB65400][0000028C7CFA2F00 49] Android_PowerVR_GM9xxx, [0000028C7DD04200][0000028C7CFF9040 49] Android_PowerVR_GM9xxx_Vulkan, [0000028C7EB66600][0000028C7CFA7180 49] Android_TegraK1, [0000028C7DD07D00][0000028C7CFAB2C0 49] Android_Unknown_Vulkan, [0000028C7EB67B00][0000028C7CFB3440 49] Lumin, [0000028C7DD07C00][0000028C7CFB75C0 49] Lumin_Desktop, [0000028C7EB64B00][0000028C7CFBB740 49] HoloLens, 
+[2022.05.08-22.05.02:171][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.08-22.05.02:171][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.08-22.05.02:171][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.08-22.05.02:171][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.08-22.05.02:171][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.08-22.05.02:188][  0]LogNetVersion: Brillet_Killian_TD 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1477321307)
+[2022.05.08-22.05.02:570][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.08-22.05.02:626][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.08-22.05.02:632][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.05.08-22.05.02:632][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2022.05.08-22.05.02:632][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.08-22.05.02:902][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 549C13E44C1EAE6B24283697AB1CF0E0 | Instance: 2BA3A3B042E8AA6037B3D8A40C695A98 (CHOCA-PC-6812).
+[2022.05.08-22.05.02:920][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.02:920][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.02:936][  0]LogPython: Using Python 3.7.7
+[2022.05.08-22.05.03:504][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.08-22.05.03:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.08-22.05.03:662][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.03:662][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.03:665][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.03:667][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.03:676][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.03:696][  0]LogUProjectInfo: Found projects:
+[2022.05.08-22.05.03:868][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.08-22.05.03:916][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.08-22.05.03:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-22.05.03:938][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-22.05.04:054][  0]LogCollectionManager: Loaded 0 collections in 0.000775 seconds
+[2022.05.08-22.05.04:074][  0]LogFileCache: Scanning file cache for directory 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Collections/' took 0.00s
+[2022.05.08-22.05.04:074][  0]LogFileCache: Scanning file cache for directory 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Developers/brill/Collections/' took 0.00s
+[2022.05.08-22.05.04:074][  0]LogFileCache: Scanning file cache for directory 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Collections/' took 0.00s
+[2022.05.08-22.05.04:074][  0]LogOcInput: OculusInput pre-init called
+[2022.05.08-22.05.04:317][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.04:318][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.04:318][  0]LogEngine: Initializing Engine...
+[2022.05.08-22.05.04:320][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.08-22.05.04:320][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-22.05.04:320][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.08-22.05.04:321][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.08-22.05.04:449][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.08-22.05.04:457][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.08-22.05.04:457][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.08-22.05.04:460][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.08-22.05.04:461][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.08-22.05.04:461][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.08-22.05.04:461][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.08-22.05.04:462][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.08-22.05.04:462][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.08-22.05.04:462][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.08-22.05.04:462][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.08-22.05.04:462][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.08-22.05.04:477][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.08-22.05.04:477][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.08-22.05.04:493][  0]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Arctis 5 Chat)
+[2022.05.08-22.05.04:494][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.08-22.05.04:496][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.08-22.05.04:496][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.08-22.05.04:497][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.08-22.05.04:497][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.08-22.05.04:497][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.08-22.05.04:498][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.08-22.05.04:498][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.08-22.05.04:498][  0]LogInit: FAudioDevice initialized.
+[2022.05.08-22.05.04:498][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.08-22.05.04:498][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.08-22.05.04:644][  0]LogDerivedDataCache: Saved boot cache 0.15s 94MB C:/Users/brill/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.08-22.05.04:647][  0]LogInit: Texture streaming: Enabled
+[2022.05.08-22.05.04:658][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2022.05.08-22.05.04:661][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.08-22.05.04:661][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.08-22.05.04:662][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.08-22.05.04:727][  0]LogInit: Transaction tracking system initialized
+[2022.05.08-22.05.04:748][  0]BlueprintLog: New page: Editor Load
+[2022.05.08-22.05.04:808][  0]LocalizationService: Localization service is disabled
+[2022.05.08-22.05.04:833][  0]TimingProfiler: Initialize
+[2022.05.08-22.05.04:833][  0]TimingProfiler: OnSessionChanged
+[2022.05.08-22.05.04:833][  0]LoadingProfiler: Initialize
+[2022.05.08-22.05.04:833][  0]LoadingProfiler: OnSessionChanged
+[2022.05.08-22.05.04:833][  0]NetworkingProfiler: Initialize
+[2022.05.08-22.05.04:833][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.08-22.05.04:833][  0]MemoryProfiler: Initialize
+[2022.05.08-22.05.04:833][  0]MemoryProfiler: OnSessionChanged
+[2022.05.08-22.05.04:989][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.08-22.05.04:989][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.08-22.05.05:178][  0]LogFileCache: Scanning file cache for directory 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/' took 0.01s
+[2022.05.08-22.05.05:383][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.05:383][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.05.08-22.05.05:383][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.08-22.05.05:386][  0]SourceControl: Source control is disabled
+[2022.05.08-22.05.05:386][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.024
+[2022.05.08-22.05.05:386][  0]Cmd: MAP LOAD FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.08-22.05.05:387][  0]LogEditorServer: Warning: Can't find file 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.05.08-22.05.05:387][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.08-22.05.05:387][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2022.05.08-22.05.05:387][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2022.05.08-22.05.05:388][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.026
+[2022.05.08-22.05.05:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.05:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.05:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.05:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.05:536][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3822 classes and 928 folders.
+[2022.05.08-22.05.05:538][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.08-22.05.05:539][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-22.05.05:539][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:539][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-22.05.05:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:539][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.05.08-22.05.05:539][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.05.08-22.05.05:540][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.08-22.05.05:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.08-22.05.05:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:540][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.05.08-22.05.05:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.08-22.05.05:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.05.08-22.05.05:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:541][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-22.05.05:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:541][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.05.08-22.05.05:541][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.05.08-22.05.05:542][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.08-22.05.05:542][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:542][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.08-22.05.05:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:542][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.05.08-22.05.05:542][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.08-22.05.05:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.05.08-22.05.05:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.08-22.05.05:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:543][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.05.08-22.05.05:543][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:544][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.08-22.05.05:544][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:544][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.08-22.05.05:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:544][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.05.08-22.05.05:544][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-22.05.05:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:545][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.05.08-22.05.05:545][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:545][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.08-22.05.05:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.05.08-22.05.05:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.05.08-22.05.05:546][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.08-22.05.05:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.08-22.05.05:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:546][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.05.08-22.05.05:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-22.05.05:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.05.08-22.05.05:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:547][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-22.05.05:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:547][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.05.08-22.05.05:547][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:548][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-22.05.05:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-22.05.05:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:548][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.05.08-22.05.05:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.08-22.05.05:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.05.08-22.05.05:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-22.05.05:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:549][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.05.08-22.05.05:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:550][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.08-22.05.05:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.08-22.05.05:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:550][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.05.08-22.05.05:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-22.05.05:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.05.08-22.05.05:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-22.05.05:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:551][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.05.08-22.05.05:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.08-22.05.05:552][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-22.05.05:552][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:552][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-22.05.05:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:552][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.05.08-22.05.05:552][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-22.05.05:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.05.08-22.05.05:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-22.05.05:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:553][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.05.08-22.05.05:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.08-22.05.05:554][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.08-22.05.05:554][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:554][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.08-22.05.05:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:554][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.05.08-22.05.05:554][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.08-22.05.05:555][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-22.05.05:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-22.05.05:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:555][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.05.08-22.05.05:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.05.08-22.05.05:555][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-22.05.05:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-22.05.05:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.05.08-22.05.05:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.08-22.05.05:556][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.08-22.05.05:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-22.05.05:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.08-22.05.05:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.05.08-22.05.05:556][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.05.08-22.05.05:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.08-22.05.05:617][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.08-22.05.05:618][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.05.08-22.05.05:671][  0]LogSlate: Took 0.000296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.08-22.05.05:672][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.08-22.05.05:673][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.08-22.05.05:764][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2022.05.08-22.05.05:845][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.08-22.05.05:845][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.05.08-22.05.05:845][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.05.08-22.05.05:845][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.05.08-22.05.05:845][  0]LogLoad: (Engine Initialization) Total time: 7.48 seconds
+[2022.05.08-22.05.05:845][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.08-22.05.05:888][  0]LogAssetRegistry: Asset discovery search completed in 4.0784 seconds
+[2022.05.08-22.05.05:895][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.08-22.05.05:897][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.08-22.05.05:970][  7]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.08-22.05.14:286][729]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.08-22.05.34:203][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.08-22.05.34:208][999]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.08-22.05.35:234][999]LogAssetEditorSubsystem: Opening Asset editor for World /Game/L_Map.L_Map
+[2022.05.08-22.05.35:234][999]Cmd: MAP LOAD FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/L_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.08-22.05.35:234][999]LightingResults: New page: Lighting Build
+[2022.05.08-22.05.35:236][999]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.05.08-22.05.35:236][999]LoadErrors: New page: Loading map: L_Map.umap
+[2022.05.08-22.05.35:268][999]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.05.35:268][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.05.35:269][999]MapCheck: New page: Map Check
+[2022.05.08-22.05.35:269][999]LightingResults: New page: Lighting Build
+[2022.05.08-22.05.35:274][999]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-22.05.35:278][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.08-22.05.35:279][999]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_Map'.
+[2022.05.08-22.05.35:397][999]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.08-22.05.35:397][999]LogAIModule: Creating AISystem for world L_Map
+[2022.05.08-22.05.35:430][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.08-22.05.35:447][999]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.08-22.05.35:447][999]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.05.08-22.05.35:447][999]LogFileHelpers: Loading map 'L_Map' took 0.213
+[2022.05.08-22.05.38:167][278]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.08-22.05.38:180][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.08-22.05.38:181][278]PIE: New page: PIE session: L_Map (9 mai 2022 à 02:05:38)
+[2022.05.08-22.05.38:182][278]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.08-22.05.38:183][278]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.08-22.05.38:183][278]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_Map
+[2022.05.08-22.05.38:198][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014994s)
+[2022.05.08-22.05.38:199][278]LogAIModule: Creating AISystem for world L_Map
+[2022.05.08-22.05.38:199][278]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2022.05.08-22.05.38:199][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_Map.L_Map to /Game/UEDPIE_0_L_Map.L_Map (0.016056s)
+[2022.05.08-22.05.38:204][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.08-22.05.38:205][278]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.08-22.05.38:205][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.08-22.05.38:205][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.08-22.05.38:206][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.08-22.05.38:206][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.08-22.05.38:206][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.08-22.05.38:206][278]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.08-22.05.38:211][278]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.08-22.05.38:211][278]LogAudioMixer: Display: 1: FrontRight
+[2022.05.08-22.05.38:219][278]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (Arctis 5 Chat)
+[2022.05.08-22.05.38:219][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.08-22.05.38:219][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.08-22.05.38:219][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.08-22.05.38:220][278]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.08-22.05.38:220][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.08-22.05.38:220][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.08-22.05.38:221][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.08-22.05.38:221][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.08-22.05.38:221][278]LogInit: FAudioDevice initialized.
+[2022.05.08-22.05.38:221][278]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_Map'.
+[2022.05.08-22.05.38:231][278]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.05.08-22.05.38:231][278]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2022.05.08-22.05.38:231][278]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2022.05.08-22.05.38:231][278]LogLoad: Game class is 'GameModeBase'
+[2022.05.08-22.05.38:234][278]LogWorld: Bringing World /Game/UEDPIE_0_L_Map.L_Map up for play (max tick rate 0) at 2022.05.09-00.05.38
+[2022.05.08-22.05.38:234][278]LogWorld: Bringing up level for play took: 0.001952
+[2022.05.08-22.05.38:235][278]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.05.08-22.05.38:246][278]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.08-22.05.38:249][278]PIE: Server logged in
+[2022.05.08-22.05.38:250][278]PIE: Play in editor total start time 0,07 seconds.
+[2022.05.08-22.05.41:808][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.41:808][634]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Map
+[2022.05.08-22.05.41:820][634]LogWorld: UWorld::CleanupWorld for L_Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.05.41:820][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.05.41:826][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.08-22.05.41:828][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.05.41:832][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-22.05.41:832][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-22.05.41:833][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-22.05.41:836][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.08-22.05.41:899][636]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.05.08-22.05.51:301][687]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.08-22.05.51:305][687]LogSlate: Window 'Project Settings' being destroyed
+[2022.05.08-22.06.00:331][721]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.08-22.06.00:337][721]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2022.05.08-22.06.00:341][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2022.05.08-22.06.00:891][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Legs...
+[2022.05.08-22.06.00:910][721]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Legs.SK_Man_Legs
+[2022.05.08-22.06.00:913][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Pants...
+[2022.05.08-22.06.00:955][721]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Pants.SK_Man_Pants
+[2022.05.08-22.06.00:956][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Balaclava...
+[2022.05.08-22.06.00:961][721]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Balaclava.SK_Man_Balaclava
+[2022.05.08-22.06.00:964][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Body_For_Jacket...
+[2022.05.08-22.06.00:999][721]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Body_For_Jacket.SK_Man_Body_For_Jacket
+[2022.05.08-22.06.01:000][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Feet...
+[2022.05.08-22.06.01:011][721]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Feet.SK_Man_Feet
+[2022.05.08-22.06.01:011][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Cloth_Face...
+[2022.05.08-22.06.01:014][721]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Cloth_Face.SK_Man_Cloth_Face
+[2022.05.08-22.06.01:022][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Full_02...
+[2022.05.08-22.06.01:180][721]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/Base_Unreal/Man/Mesh/Full/SK_Man_Full_02.SK_Man_Full_02
+[2022.05.08-22.06.01:186][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Half__Body...
+[2022.05.08-22.06.01:233][721]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Half__Body.SK_Man_Half__Body
+[2022.05.08-22.06.01:236][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Bag...
+[2022.05.08-22.06.01:264][721]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Bag.SK_Man_Bag
+[2022.05.08-22.06.01:280][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Full_01...
+[2022.05.08-22.06.01:343][721]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Base_Unreal/Man/Mesh/Full/SK_Man_Full_01.SK_Man_Full_01
+[2022.05.08-22.06.01:345][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Shoes...
+[2022.05.08-22.06.01:363][721]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Shoes.SK_Man_Shoes
+[2022.05.08-22.06.01:365][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Pullover_For_Jacket...
+[2022.05.08-22.06.01:369][721]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Pullover_For_Jacket.SK_Man_Pullover_For_Jacket
+[2022.05.08-22.06.01:371][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Arms...
+[2022.05.08-22.06.01:392][721]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Arms.SK_Man_Arms
+[2022.05.08-22.06.01:400][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Full_03...
+[2022.05.08-22.06.01:558][721]LogSkeletalMesh: Built Skeletal Mesh [0.16s] /Game/Base_Unreal/Man/Mesh/Full/SK_Man_Full_03.SK_Man_Full_03
+[2022.05.08-22.06.01:559][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Head...
+[2022.05.08-22.06.01:571][721]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Head.SK_Man_Head
+[2022.05.08-22.06.01:574][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Jacket...
+[2022.05.08-22.06.01:620][721]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Jacket.SK_Man_Jacket
+[2022.05.08-22.06.01:622][721]LogSkeletalMesh: Building Skeletal Mesh SK_Man_Pullover...
+[2022.05.08-22.06.01:633][721]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Base_Unreal/Man/Mesh/Parts/SK_Man_Pullover.SK_Man_Pullover
+[2022.05.08-22.06.01:689][721]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.05.08-22.06.01:755][721]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/Base_Unreal/Man/Demo/Mesh/SK_Mannequin.SK_Mannequin
+[2022.05.08-22.06.03:125][721]LogStaticMesh: Building static mesh SM_Arrows...
+[2022.05.08-22.06.03:162][721]LogStaticMesh: Built static mesh [0.04s] /Game/Base_Unreal/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows
+[2022.05.08-22.06.03:171][721]LogStaticMesh: Building static mesh Skybox...
+[2022.05.08-22.06.03:213][721]LogStaticMesh: Built static mesh [0.04s] /Game/Base_Unreal/StarterContent/Blueprints/Assets/Skybox.Skybox
+[2022.05.08-22.06.03:259][721]LogStaticMesh: Building static mesh SM_AssetPlatform...
+[2022.05.08-22.06.03:290][721]LogStaticMesh: Built static mesh [0.03s] /Game/Base_Unreal/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2022.05.08-22.06.03:628][721]LogStaticMesh: Building static mesh SM_Statue...
+[2022.05.08-22.06.03:660][721]LogStaticMesh: Built static mesh [0.08s] /Game/Base_Unreal/StarterContent/Props/SM_Statue.SM_Statue
+[2022.05.08-22.06.03:667][721]LogStaticMesh: Building static mesh SM_Chair...
+[2022.05.08-22.06.03:678][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Chair.SM_Chair
+[2022.05.08-22.06.03:740][721]LogStaticMesh: Building static mesh SM_TableRound...
+[2022.05.08-22.06.03:772][721]LogStaticMesh: Built static mesh [0.03s] /Game/Base_Unreal/StarterContent/Props/SM_TableRound.SM_TableRound
+[2022.05.08-22.06.03:822][721]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.05.08-22.06.03:823][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.05.08-22.06.05:721][721]LogStaticMesh: Building static mesh SM_Lamp_Ceiling...
+[2022.05.08-22.06.05:737][721]LogStaticMesh: Built static mesh [0.02s] /Game/Base_Unreal/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2022.05.08-22.06.05:830][721]LogStaticMesh: Building static mesh SM_Lamp_Wall...
+[2022.05.08-22.06.05:836][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2022.05.08-22.06.05:838][721]LogStaticMesh: Building static mesh SM_DoorFrame...
+[2022.05.08-22.06.05:839][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2022.05.08-22.06.05:840][721]LogStaticMesh: Building static mesh SM_GlassWindow...
+[2022.05.08-22.06.05:847][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_GlassWindow.SM_GlassWindow
+[2022.05.08-22.06.05:848][721]LogStaticMesh: Building static mesh MaterialSphere...
+[2022.05.08-22.06.05:855][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/MaterialSphere.MaterialSphere
+[2022.05.08-22.06.05:857][721]LogStaticMesh: Building static mesh SM_PillarFrame...
+[2022.05.08-22.06.05:863][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_PillarFrame.SM_PillarFrame
+[2022.05.08-22.06.05:864][721]LogStaticMesh: Building static mesh SM_PillarFrame300...
+[2022.05.08-22.06.05:869][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300
+[2022.05.08-22.06.05:871][721]LogStaticMesh: Building static mesh SM_CornerFrame...
+[2022.05.08-22.06.05:874][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2022.05.08-22.06.05:876][721]LogStaticMesh: Building static mesh Shape_QuadPyramid...
+[2022.05.08-22.06.05:876][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid
+[2022.05.08-22.06.05:877][721]LogStaticMesh: Building static mesh Shape_Sphere...
+[2022.05.08-22.06.05:886][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2022.05.08-22.06.05:888][721]LogStaticMesh: Building static mesh Shape_Cube...
+[2022.05.08-22.06.05:888][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Cube.Shape_Cube
+[2022.05.08-22.06.05:889][721]LogStaticMesh: Building static mesh SM_WindowFrame...
+[2022.05.08-22.06.05:891][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Props/SM_WindowFrame.SM_WindowFrame
+[2022.05.08-22.06.05:892][721]LogStaticMesh: Building static mesh Wall_Window_400x300...
+[2022.05.08-22.06.05:893][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300
+[2022.05.08-22.06.05:893][721]LogStaticMesh: Building static mesh Wall_Door_400x300...
+[2022.05.08-22.06.05:894][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300
+[2022.05.08-22.06.05:895][721]LogStaticMesh: Building static mesh Wall_400x200...
+[2022.05.08-22.06.05:895][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2022.05.08-22.06.06:243][721]LogStaticMesh: Building static mesh Pillar_50x500...
+[2022.05.08-22.06.06:243][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2022.05.08-22.06.06:250][721]LogStaticMesh: Building static mesh Wall_400x300...
+[2022.05.08-22.06.06:250][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_400x300.Wall_400x300
+[2022.05.08-22.06.06:257][721]LogStaticMesh: Building static mesh Wall_400x400...
+[2022.05.08-22.06.06:257][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_400x400.Wall_400x400
+[2022.05.08-22.06.06:264][721]LogStaticMesh: Building static mesh Wall_500x500...
+[2022.05.08-22.06.06:266][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_500x500.Wall_500x500
+[2022.05.08-22.06.06:272][721]LogStaticMesh: Building static mesh Wall_Door_400x400...
+[2022.05.08-22.06.06:273][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2022.05.08-22.06.06:281][721]LogStaticMesh: Building static mesh Wall_Window_400x400...
+[2022.05.08-22.06.06:281][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Architecture/Wall_Window_400x400.Wall_Window_400x400
+[2022.05.08-22.06.06:379][721]LogStaticMesh: Building static mesh SM_Bush...
+[2022.05.08-22.06.06:384][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Bush.SM_Bush
+[2022.05.08-22.06.06:393][721]LogStaticMesh: Building static mesh SM_Couch...
+[2022.05.08-22.06.06:405][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Couch.SM_Couch
+[2022.05.08-22.06.06:428][721]LogStaticMesh: Building static mesh SM_Door...
+[2022.05.08-22.06.06:438][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Door.SM_Door
+[2022.05.08-22.06.06:492][721]LogStaticMesh: Building static mesh SM_MatPreviewMesh_02...
+[2022.05.08-22.06.06:572][721]LogStaticMesh: Built static mesh [0.08s] /Game/Base_Unreal/StarterContent/Props/SM_MatPreviewMesh_02.SM_MatPreviewMesh_02
+[2022.05.08-22.06.06:616][721]LogStaticMesh: Building static mesh SM_Rock...
+[2022.05.08-22.06.06:624][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Props/SM_Rock.SM_Rock
+[2022.05.08-22.06.06:651][721]LogStaticMesh: Building static mesh SM_Shelf...
+[2022.05.08-22.06.06:655][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Props/SM_Shelf.SM_Shelf
+[2022.05.08-22.06.06:664][721]LogStaticMesh: Building static mesh SM_Stairs...
+[2022.05.08-22.06.06:666][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Props/SM_Stairs.SM_Stairs
+[2022.05.08-22.06.06:673][721]LogStaticMesh: Building static mesh Shape_Cone...
+[2022.05.08-22.06.06:675][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2022.05.08-22.06.06:684][721]LogStaticMesh: Building static mesh Shape_Cylinder...
+[2022.05.08-22.06.06:688][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Cylinder.Shape_Cylinder
+[2022.05.08-22.06.06:696][721]LogStaticMesh: Building static mesh Shape_NarrowCapsule...
+[2022.05.08-22.06.06:703][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule
+[2022.05.08-22.06.06:710][721]LogStaticMesh: Building static mesh Shape_Pipe...
+[2022.05.08-22.06.06:712][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2022.05.08-22.06.06:720][721]LogStaticMesh: Building static mesh Shape_Pipe_180...
+[2022.05.08-22.06.06:727][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Pipe_180.Shape_Pipe_180
+[2022.05.08-22.06.06:760][721]LogStaticMesh: Building static mesh Shape_Pipe_90...
+[2022.05.08-22.06.06:764][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Pipe_90.Shape_Pipe_90
+[2022.05.08-22.06.06:774][721]LogStaticMesh: Building static mesh Shape_Plane...
+[2022.05.08-22.06.06:774][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Plane.Shape_Plane
+[2022.05.08-22.06.06:782][721]LogStaticMesh: Building static mesh Shape_Torus...
+[2022.05.08-22.06.06:796][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Torus.Shape_Torus
+[2022.05.08-22.06.06:805][721]LogStaticMesh: Building static mesh Shape_Trim...
+[2022.05.08-22.06.06:807][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Trim.Shape_Trim
+[2022.05.08-22.06.06:814][721]LogStaticMesh: Building static mesh Shape_Trim_90_In...
+[2022.05.08-22.06.06:816][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Trim_90_In.Shape_Trim_90_In
+[2022.05.08-22.06.06:823][721]LogStaticMesh: Building static mesh Shape_Trim_90_Out...
+[2022.05.08-22.06.06:826][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Trim_90_Out.Shape_Trim_90_Out
+[2022.05.08-22.06.06:833][721]LogStaticMesh: Building static mesh Shape_TriPyramid...
+[2022.05.08-22.06.06:833][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_TriPyramid.Shape_TriPyramid
+[2022.05.08-22.06.06:841][721]LogStaticMesh: Building static mesh Shape_Tube...
+[2022.05.08-22.06.06:847][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Tube.Shape_Tube
+[2022.05.08-22.06.06:855][721]LogStaticMesh: Building static mesh Shape_Wedge_A...
+[2022.05.08-22.06.06:856][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Wedge_A.Shape_Wedge_A
+[2022.05.08-22.06.06:862][721]LogStaticMesh: Building static mesh Shape_Wedge_B...
+[2022.05.08-22.06.06:863][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B
+[2022.05.08-22.06.06:872][721]LogStaticMesh: Building static mesh Shape_WideCapsule...
+[2022.05.08-22.06.06:878][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/StarterContent/Shapes/Shape_WideCapsule.Shape_WideCapsule
+[2022.05.08-22.06.06:905][721]LogStaticMesh: Building static mesh Bump_StaticMesh...
+[2022.05.08-22.06.06:909][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh
+[2022.05.08-22.06.06:916][721]LogStaticMesh: Building static mesh LeftArm_StaticMesh...
+[2022.05.08-22.06.06:919][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2022.05.08-22.06.06:925][721]LogStaticMesh: Building static mesh Linear_Stair_StaticMesh...
+[2022.05.08-22.06.06:929][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh
+[2022.05.08-22.06.06:936][721]LogStaticMesh: Building static mesh Ramp_StaticMesh...
+[2022.05.08-22.06.06:942][721]LogStaticMesh: Built static mesh [0.01s] /Game/Base_Unreal/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh
+[2022.05.08-22.06.06:950][721]LogStaticMesh: Building static mesh RightArm_StaticMesh...
+[2022.05.08-22.06.06:953][721]LogStaticMesh: Built static mesh [0.00s] /Game/Base_Unreal/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh
+[2022.05.08-22.06.06:996][721]LogObjectTools: Deleting 4 worlds: /Game/Base_Unreal/Man/Maps/Demo.Demo, /Game/Base_Unreal/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/Base_Unreal/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/Base_Unreal/StarterContent/Maps/StarterMap.StarterMap
+[2022.05.08-22.06.06:996][721]LogObjectTools: Currently 4 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2022.05.08-22.06.07:004][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.05.08-22.06.28:395][721]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.06.38:712][899]LogMetaData: Removing '/Game/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/Base_Unreal/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.05.08-22.06.38:712][899]LogMetaData: Removing '/Game/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/Base_Unreal/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.05.08-22.06.38:712][899]LogMetaData: Removing '/Game/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/Base_Unreal/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2022.05.08-22.06.38:733][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonGameMode" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/ThirdPersonGameMode.uasset" SILENT=true
+[2022.05.08-22.06.38:762][899]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/ThirdPersonGameMode66F63EDB47E2036B8F8A748AD81E8E5B.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/ThirdPersonGameMode.uasset'
+[2022.05.08-22.06.38:807][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.05.08-22.06.38:823][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.08-22.06.38:829][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.08-22.06.38:863][899]AssetCheck: New page: Asset Save: ThirdPersonGameMode
+[2022.05.08-22.06.38:863][899]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonGameMode.ThirdPersonGameMode
+[2022.05.08-22.06.47:584][928]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.05.08-22.06.47:584][928]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2022.05.08-22.06.47:584][928]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter'
+[2022.05.08-22.06.47:674][938]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2022.05.08-22.06.48:129][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.08-22.06.49:062][ 93]LogLinker: Warning: Failed to load '/Game/Mannequin/Animations/ThirdPerson_AnimBP': Can't find file.
+[2022.05.08-22.06.49:062][ 93]LogLinker: Warning: Failed to load '/Game/Mannequin/Animations/ThirdPerson_AnimBP': Can't find file.
+[2022.05.08-22.06.49:062][ 93]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP'
+[2022.05.08-22.06.55:094][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.08-22.06.56:013][803]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.06.56:072][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.05.08-22.06.56:086][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.05.08-22.06.56:092][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.08-22.07.08:755][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.08-22.07.10:795][ 38]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.07.10:850][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.08-22.07.10:856][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.08-22.07.10:862][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.08-22.07.10:867][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.05.08-22.07.10:873][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.08-22.07.10:878][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.05.08-22.07.10:891][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.05.08-22.07.10:898][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.05.08-22.07.25:428][723]LogObjectTools: Deleting 3 worlds: /Game/Base_Unreal/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/Base_Unreal/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/Base_Unreal/StarterContent/Maps/StarterMap.StarterMap
+[2022.05.08-22.07.25:428][723]LogObjectTools: Currently 8 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2022.05.08-22.07.25:434][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.05.08-22.07.29:292][723]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.07.32:622][ 15]LogSlate: Took 0.001768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.05.08-22.07.43:519][194]LogObjectTools: Deleting 3 worlds: /Game/Base_Unreal/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/Base_Unreal/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/Base_Unreal/StarterContent/Maps/StarterMap.StarterMap
+[2022.05.08-22.07.43:519][194]LogObjectTools: Currently 11 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2022.05.08-22.07.43:525][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.05.08-22.07.50:704][194]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.08.42:701][727]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_MyCharacter.BP_MyCharacter
+[2022.05.08-22.08.43:166][727]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.08-22.08.44:245][727]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.08-22.08.44:394][728]LogSlate: Took 0.012624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.08-22.08.45:926][834]LogRenderer: Reallocating scene render targets to support 1208x940 Format 10 NumSamples 1 (Frame:1).
+[2022.05.08-22.08.48:538][ 12]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Base_Unreal/Man/Mesh/Full/SK_Man_Full_04.SK_Man_Full_04
+[2022.05.08-22.08.48:604][ 12]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.05.08-22.08.48:614][ 12]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.05.08-22.08.48:854][ 12]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.05.08-22.08.49:005][ 12]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.08-22.08.49:021][ 12]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.05.08-22.08.51:201][109]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.05.08-22.08.51:821][149]LogD3D11RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2022.05.08-22.08.59:875][695]LogSlate: Window 'BP_MyCharacter' being destroyed
+[2022.05.08-22.09.14:520][311]LogObjectTools: Deleting 1 worlds: /Game/Base_Unreal/Man/Maps/Demo.Demo
+[2022.05.08-22.09.14:520][311]LogObjectTools: Currently 16 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14
+[2022.05.08-22.09.14:564][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.05.08-22.09.24:723][311]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.09.43:707][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Chamfer" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2022.05.08-22.09.43:734][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_Cube_Chamfer345BA05043679DC722D2D0A91B34FDC0.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2022.05.08-22.09.43:759][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2022.05.08-22.09.43:772][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/CubeMaterial51E52BB646EFD36DEA5B118F3F30261E.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2022.05.08-22.09.43:782][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2022.05.08-22.09.43:808][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_CubeF6DA27F544C985F18E97BFA1744BBB03.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/1M_Cube.uasset'
+[2022.05.08-22.09.43:810][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Unreal/Geometry/Meshes/1M_Cube" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2022.05.08-22.09.43:815][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_Cube654AC3BD418E7A0C69D4AFAE9B892C4A.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/1M_Cube.uasset'
+[2022.05.08-22.09.43:826][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2022.05.08-22.09.43:860][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/TemplateFloorFEE29D4A4D8480242E38CBA145D5921E.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2022.05.08-22.09.43:861][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Unreal/Geometry/Meshes/TemplateFloor" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2022.05.08-22.09.43:867][332]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/TemplateFloor87BCF0734A4AAC19ADE37CB8A520B6D0.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/TemplateFloor.uasset'
+[2022.05.08-22.09.43:947][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.08-22.09.43:972][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.08-22.09.44:002][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.08-22.09.44:024][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.08-22.09.44:077][332]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating ObjectRedirector /Game/Base_Unreal/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.05.08-22.09.44:077][332]LogContentValidation: Display: Validating ObjectRedirector /Game/Base_Unreal/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.05.08-22.09.54:562][400]LogContentBrowser: Attempting asset rename: Geometry -> Environnement
+[2022.05.08-22.09.54:631][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Meshes/1M_Cube_Chamfer" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2022.05.08-22.09.54:658][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_Cube_Chamfer0DDB015C4A520A207E2811B5AB9CD41B.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/1M_Cube_Chamfer.uasset'
+[2022.05.08-22.09.54:673][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Meshes/CubeMaterial" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/CubeMaterial.uasset" SILENT=true
+[2022.05.08-22.09.54:685][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/CubeMaterialA03745A94BE609969B3608A66D095DF3.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/CubeMaterial.uasset'
+[2022.05.08-22.09.54:695][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Meshes/1M_Cube" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/1M_Cube.uasset" SILENT=true
+[2022.05.08-22.09.54:721][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_CubeDC5D228F4633195333E04789CF1ABBF1.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/1M_Cube.uasset'
+[2022.05.08-22.09.54:732][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Environnement/Meshes/TemplateFloor" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/TemplateFloor.uasset" SILENT=true
+[2022.05.08-22.09.54:765][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/TemplateFloor20271BDF4F591348A053B992050B81F0.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Environnement/Meshes/TemplateFloor.uasset'
+[2022.05.08-22.09.54:862][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.08-22.09.54:887][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.08-22.09.54:910][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.08-22.09.54:932][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.08-22.09.54:962][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.08-22.09.54:984][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.08-22.09.55:005][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Unreal/Geometry/Meshes/1M_Cube" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2022.05.08-22.09.55:011][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/1M_Cube7FD9CAF9491A58E8F45211B8C91237EF.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/1M_Cube.uasset'
+[2022.05.08-22.09.55:013][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base_Unreal/Geometry/Meshes/TemplateFloor" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2022.05.08-22.09.55:019][400]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/TemplateFloorCD9002A24B7374ECFD59849857B609F1.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/Geometry/Meshes/TemplateFloor.uasset'
+[2022.05.08-22.09.55:076][400]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating Material /Game/Environnement/Meshes/CubeMaterial.CubeMaterial
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Meshes/1M_Cube.1M_Cube
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating StaticMesh /Game/Environnement/Meshes/TemplateFloor.TemplateFloor
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating ObjectRedirector /Game/Base_Unreal/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2022.05.08-22.09.55:076][400]LogContentValidation: Display: Validating ObjectRedirector /Game/Base_Unreal/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.05.08-22.10.02:486][118]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Collectible.BP_Collectible
+[2022.05.08-22.10.09:040][836]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.09:040][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.10.12:272][213]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.05.08-22.10.12:272][213]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.12:272][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.10.14:088][411]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.14:088][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.10.23:811][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.05.08-22.10.25:610][421]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.10.30:824][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.05.08-22.10.31:797][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.10.31:810][ 33]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Base_Unreal/Geometry/Meshes/TemplateFloor.TemplateFloor
+	Asset Name: /Game/Base_Unreal/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.05.08-22.10.37:787][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.05.08-22.10.37:808][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.08-22.10.37:823][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.08-22.10.37:838][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.08-22.10.40:377][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Map" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/L_Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.08-22.10.40:395][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.08-22.10.40:663][318]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/L_MapA0BAD442498BA7EF03F7CA9266030679.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/L_Map.umap'
+[2022.05.08-22.10.40:689][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Map_BuiltData" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/L_Map_BuiltData.uasset" SILENT=true
+[2022.05.08-22.10.40:830][318]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/L_Map_BuiltData609D53774EB7011DA8D7FB8E816958BB.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/L_Map_BuiltData.uasset'
+[2022.05.08-22.10.40:843][318]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.10.40:843][318]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/L_Map_BuiltData.L_Map_BuiltData
+[2022.05.08-22.10.40:843][318]LogContentValidation: Display: Validating World /Game/L_Map.L_Map
+[2022.05.08-22.10.42:116][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.05.08-22.10.43:677][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.05.08-22.10.51:896][479]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Base_Unreal/Man/Demo/Animations/ThirdPersonRun.ThirdPersonRun
+[2022.05.08-22.10.51:985][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.08-22.10.52:779][479]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.05.08-22.10.54:538][593]LogSlate: Window 'ThirdPersonRun' being destroyed
+[2022.05.08-22.10.54:544][593]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.54:544][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.10.54:571][593]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.54:571][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.10.54:644][593]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-22.10.54:644][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-22.11.09:910][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.08-22.11.13:084][340]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.11.30:444][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P_Fire" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/P_Fire.uasset" SILENT=true
+[2022.05.08-22.11.30:862][336]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/P_Fire642D17CE476251454F8863BC35E83573.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/P_Fire.uasset'
+[2022.05.08-22.11.30:945][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.08-22.11.30:968][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.08-22.11.30:980][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.08-22.11.31:018][336]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/Blueprint_Effect_Fire1C731E5E4C113D6D8659E18BCA4154B3.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset'
+[2022.05.08-22.11.31:021][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ennemy/BP_MyEnnemy" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Ennemy/BP_MyEnnemy.uasset" SILENT=true
+[2022.05.08-22.11.31:071][336]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/BP_MyEnnemy31766491471975B3C97364922B9404AD.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Ennemy/BP_MyEnnemy.uasset'
+[2022.05.08-22.11.31:111][336]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.11.31:111][336]LogContentValidation: Display: Validating ParticleSystem /Game/P_Fire.P_Fire
+[2022.05.08-22.11.31:111][336]LogContentValidation: Display: Validating Blueprint /Game/Ennemy/BP_MyEnnemy.BP_MyEnnemy
+[2022.05.08-22.11.31:111][336]LogContentValidation: Display: Validating Blueprint /Game/Base_Unreal/StarterContent/Blueprints/Blueprint_Effect_Fire.Blueprint_Effect_Fire
+[2022.05.08-22.11.37:369][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.08-22.11.41:735][978]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.11.41:799][978]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Base_Unreal/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit
+	Asset Name: /Game/Base_Unreal/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust
+	Asset Name: /Game/Base_Unreal/StarterContent/Particles/P_Explosion.P_Explosion
+	Asset Name: /Game/Base_Unreal/StarterContent/Particles/P_Smoke.P_Smoke
+	Asset Name: /Game/Base_Unreal/StarterContent/Particles/P_Sparks.P_Sparks
+[2022.05.08-22.11.42:049][978]LogParticles: Warning: MaxCount =  659 for Emitter ParticleSpriteEmitter_4 (/Game/Base_Unreal/StarterContent/Particles/P_Sparks.P_Sparks)
+[2022.05.08-22.11.42:064][978]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_0 (/Game/Base_Unreal/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.05.08-22.11.42:064][978]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_1 (/Game/Base_Unreal/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.05.08-22.11.42:064][978]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_2 (/Game/Base_Unreal/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.05.08-22.11.42:064][978]LogParticles: Warning: MaxCount =  502 for Emitter ParticleSpriteEmitter_3 (/Game/Base_Unreal/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust)
+[2022.05.08-22.11.42:172][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.08-22.11.42:187][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.08-22.11.42:201][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.08-22.11.42:214][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.08-22.11.42:228][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.08-22.11.42:242][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.05.08-22.11.42:256][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.08-22.11.46:538][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Fire_SubUV" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Fire_SubUV.uasset" SILENT=true
+[2022.05.08-22.11.46:581][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Fire_SubUV481ABDDE40108B4A136E59A20507B017.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Fire_SubUV.uasset'
+[2022.05.08-22.11.46:597][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Heat_Distortion" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Heat_Distortion.uasset" SILENT=true
+[2022.05.08-22.11.46:631][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Heat_DistortionCD37AFB54EF093C0AF6BD584EC6329F7.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Heat_Distortion.uasset'
+[2022.05.08-22.11.46:641][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Radial_Gradient" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Radial_Gradient.uasset" SILENT=true
+[2022.05.08-22.11.46:653][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Radial_GradientC3CC4F494EC736382C621CBC3D5EBF32.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Radial_Gradient.uasset'
+[2022.05.08-22.11.46:663][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_smoke_subUV" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_smoke_subUV.uasset" SILENT=true
+[2022.05.08-22.11.46:687][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_smoke_subUVFA584D61444C3206196192893DCEB964.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_smoke_subUV.uasset'
+[2022.05.08-22.11.46:697][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Spark" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Spark.uasset" SILENT=true
+[2022.05.08-22.11.46:707][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Spark33850F294C55FCB3269408B4ECEBD40E.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Spark.uasset'
+[2022.05.08-22.11.46:717][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Dust_Particle" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Dust_Particle.uasset" SILENT=true
+[2022.05.08-22.11.46:727][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Dust_Particle99002DC242A90CAB21756880D9A98D2E.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Dust_Particle.uasset'
+[2022.05.08-22.11.46:737][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Burst" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Burst.uasset" SILENT=true
+[2022.05.08-22.11.46:775][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Burst2ED75FC647E50AFCFEBFC69AD578974E.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_Burst.uasset'
+[2022.05.08-22.11.46:784][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_explosion_subUV" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_explosion_subUV.uasset" SILENT=true
+[2022.05.08-22.11.46:796][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_explosion_subUV46D45B5A4AAF50A4D74D3A8BF0F3B4D6.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_explosion_subUV.uasset'
+[2022.05.08-22.11.46:805][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_flare_01" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/m_flare_01.uasset" SILENT=true
+[2022.05.08-22.11.46:836][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/m_flare_0105FD07244528D6550F9176A0E7BA6E4A.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/m_flare_01.uasset'
+[2022.05.08-22.11.46:846][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_radial_ramp" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_radial_ramp.uasset" SILENT=true
+[2022.05.08-22.11.46:857][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_radial_ramp273A8FBC49D5A46E2BB33A8F806925C2.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Materials/M_radial_ramp.uasset'
+[2022.05.08-22.11.46:972][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.05.08-22.11.46:990][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.08-22.11.47:004][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.08-22.11.47:018][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.08-22.11.47:033][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.08-22.11.47:047][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.08-22.11.47:061][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.08-22.11.47:075][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.08-22.11.47:089][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.08-22.11.47:103][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.08-22.11.47:125][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.08-22.11.47:139][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.08-22.11.47:167][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/P_Fire" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/P_Fire.uasset" SILENT=true
+[2022.05.08-22.11.47:581][470]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/P_FireA938A3E54BE37EE530B53E8E577E69BA.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/P_Fire.uasset'
+[2022.05.08-22.11.47:629][470]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Heat_Distortion.M_Heat_Distortion
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Radial_Gradient.M_Radial_Gradient
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_smoke_subUV.M_smoke_subUV
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating ParticleSystem /Game/P_Fire.P_Fire
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Spark.M_Spark
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Dust_Particle.M_Dust_Particle
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_Burst.M_Burst
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_explosion_subUV.M_explosion_subUV
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/m_flare_01.m_flare_01
+[2022.05.08-22.11.47:629][470]LogContentValidation: Display: Validating Material /Game/Materials/M_radial_ramp.M_radial_ramp
+[2022.05.08-22.11.51:483][918]LogObjectTools: Deleting 3 worlds: /Game/Base_Unreal/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/Base_Unreal/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/Base_Unreal/StarterContent/Maps/StarterMap.StarterMap
+[2022.05.08-22.11.51:483][918]LogObjectTools: Currently 14 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12
+[2022.05.08-22.11.51:499][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.05.08-22.11.55:189][918]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.12.02:733][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Metal_Gold" FILE="G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/M_Metal_Gold.uasset" SILENT=true
+[2022.05.08-22.12.02:791][614]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Metal_Gold0C9D480F44C40CE43BC1DDAEF924F38C.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/M_Metal_Gold.uasset'
+[2022.05.08-22.12.02:798][614]LogSavePackage: Moving 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Saved/M_Metal_Gold9B8144BA45E3F8091B802EBAF2804871.tmp' to 'G:/Pro/ETPA_2021_2022/LD/Brillet_Killian_TD/Content/Base_Unreal/StarterContent/Materials/M_Metal_Gold.uasset'
+[2022.05.08-22.12.02:845][614]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-22.12.02:845][614]LogContentValidation: Display: Validating Material /Game/M_Metal_Gold.M_Metal_Gold
+[2022.05.08-22.12.02:845][614]LogContentValidation: Display: Validating ObjectRedirector /Game/Base_Unreal/StarterContent/Materials/M_Metal_Gold.M_Metal_Gold
+[2022.05.08-22.12.06:666][968]LogObjectTools: Deleting 3 worlds: /Game/Base_Unreal/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting, /Game/Base_Unreal/StarterContent/Maps/Minimal_Default.Minimal_Default, /Game/Base_Unreal/StarterContent/Maps/StarterMap.StarterMap
+[2022.05.08-22.12.06:666][968]LogObjectTools: Currently 14 active worlds: /Game/L_Map.L_Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12
+[2022.05.08-22.12.06:682][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.05.08-22.12.13:597][968]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-22.12.13:714][968]LogUObjectGlobals: Force Deleting 254 Package(s):
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_MacroVariation.T_MacroVariation
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Metal_Gold_D.T_Metal_Gold_D
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Metal_Gold_N.T_Metal_Gold_N
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Fire_SubUV.T_Fire_SubUV
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Water_N.T_Water_N
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Smoke_SubUV.T_Smoke_SubUV
+	Asset Name: /Game/Base_Unreal/StarterContent/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D
+	Asset Name: /Game/Base_Unreal/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+	Asset Name: /Game/Base_Unreal/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.05.08-22.12.14:490][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:518][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:518][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:519][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:520][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:520][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:521][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:521][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:521][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:522][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:522][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:522][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:523][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:524][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:524][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:525][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:525][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:525][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:526][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:527][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:527][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:528][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:528][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:528][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:529][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:530][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:530][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:531][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:531][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:531][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:532][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:533][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:533][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:534][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:534][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:534][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:535][968]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 12408FC1556341668F97F46DF7491EAC1AA90025), compiling. 
+[2022.05.08-22.12.14:535][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\M_Metal_Gold.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:535][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:536][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:537][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:537][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:537][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:538][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:539][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:539][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:539][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:539][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:540][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:540][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:540][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:541][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:541][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:541][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:541][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:542][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:543][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:543][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:543][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:543][968]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 2DD45CE5BFA3DE16FED1355AEE2F5D6A91AF3161), compiling. 
+[2022.05.08-22.12.14:544][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:544][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:544][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:545][968]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 4BDC8219CD608E8B7D8517DACE3A1CDF98873FBE), compiling. 
+[2022.05.08-22.12.14:545][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:545][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:546][968]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 4BDC8219CD608E8B7D8517DACE3A1CDF98873FBE), compiling. 
+[2022.05.08-22.12.14:546][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:547][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:547][968]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 4BDC8219CD608E8B7D8517DACE3A1CDF98873FBE), compiling. 
+[2022.05.08-22.12.14:548][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:548][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:549][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:549][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:549][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:549][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:551][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:551][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:551][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:551][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:552][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:553][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:553][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:553][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:554][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:554][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:554][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:554][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:555][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:556][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:556][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:556][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:557][968]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 3B868E6E5E96046AFDD3517CD07E6A89605B22F2), compiling. 
+[2022.05.08-22.12.14:557][968]LogMaterial: Warning: [AssetLog] G:\Pro\ETPA_2021_2022\LD\Brillet_Killian_TD\Content\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.05.08-22.12.14:557][968]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.05.08-22.12.14:557][968]LogMaterial: Display: 	(Node ParticleSubUV) Missing ParticleSubUV input texture
+[2022.05.08-22.12.14:557][968]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (2 / 2)
